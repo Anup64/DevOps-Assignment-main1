@@ -49,7 +49,7 @@ Finally, deploy RDS database (rds-template.yaml) on the development system netwo
 
 3.GitHub Repository
 
-Visit https://github.com/Vanisher47/DevOps-Assignment/tree/main  for the source code.
+Visit https://github.com/Anup64/DevOps-Assignment-main1.git  for the source code.
 Author
 Name: Anup Kumar
 GitHub ID: Anup64
